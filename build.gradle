@@ -173,8 +173,8 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title": "ArsNouveau Addon",
-                "Specification-Vendor": "examplemodsareus",
+                "Specification-Title": "Ars Mortem",
+                "Specification-Vendor": "arsmortemsareus",
                 "Specification-Version": "1", // We are version 1 of ourselves
                 "Implementation-Title": project.name,
                 "Implementation-Version": "${version}",
