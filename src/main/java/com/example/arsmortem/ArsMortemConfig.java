@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.example.arsmortem;
 
 import com.hollingsworth.arsnouveau.api.RegistryHelper;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

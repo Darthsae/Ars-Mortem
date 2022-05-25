@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.example.arsmortem;
 
 import net.minecraft.block.Block;
 import net.minecraftforge.common.ForgeConfigSpec;

@@ -1,4 +1,4 @@
-package com.example.examplemod.glyphs;
+package com.example.arsmortem.glyphs;
 
 import com.hollingsworth.arsnouveau.api.ArsNouveauAPI;
 import com.hollingsworth.arsnouveau.api.spell.AbstractAugment;
