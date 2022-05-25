@@ -1,6 +1,7 @@
 package com.example.arsmortem;
 
 import com.example.arsmortem.glyphs.TestEffect;
+import com.example.arsmortem.glyphs.AugmentImprovedAccelerate;
 import com.hollingsworth.arsnouveau.api.ArsNouveauAPI;
 import com.hollingsworth.arsnouveau.api.spell.AbstractSpellPart;
 
@@ -12,6 +13,7 @@ public class ArsNouveauRegistry {
 
     public static void registerGlyphs(){
         register(TestEffect.INSTANCE);
+        register(AugmentImprovedAccelerate.INSTANCE);
     }
 
     public static void register(AbstractSpellPart spellPart){

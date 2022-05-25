@@ -1,6 +1,6 @@
-# Ars-Nouveau-Example-Addon
+# Ars-Mortem
 
-An example repository for making an addon for Ars Nouveau! See the wiki for more info.
+An addon for Ars Nouveau! See the wiki for more info.
 
 # Ars Nouveau 2021 Winter Addon-athon
 
