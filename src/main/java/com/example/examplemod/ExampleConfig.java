@@ -6,10 +6,10 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.config.ModConfig;
 
 @Mod.EventBusSubscriber
-public class ExampleConfig {
+public class ArsMortemConfig {
 
     public static void registerGlyphConfigs(){
-        RegistryHelper.generateConfig(ExampleMod.MODID, ArsNouveauRegistry.registeredSpells);
+        RegistryHelper.generateConfig(ArsMortem.MODID, ArsNouveauRegistry.registeredSpells);
     }
 
     @SubscribeEvent
