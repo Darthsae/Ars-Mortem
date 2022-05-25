@@ -25,7 +25,7 @@ public class ArsMortem
 
     public ArsMortem() {
         ArsNouveauRegistry.registerGlyphs();
-        ExampleConfig.registerGlyphConfigs();
+        ArsMortemConfig.registerGlyphConfigs();
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::doClientStuff);
         MinecraftForge.EVENT_BUS.register(this);
